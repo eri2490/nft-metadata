@@ -1,0 +1,12 @@
+{
+  "description": "This NFT proves I've deployed an ERC721 Smart Contract on Goerli.  The world is my oyster.", 
+  "external_url": "https://alchemy.com", 
+  "image": "https://ipfs.filebase.io/ipfs/QmZzDSAerfLXeYR8ffiAMYTkSHE833gZBkhGV2MbV67v6v", 
+  "name": "ERC721 Oyster",
+  "attributes": [
+    {
+      "trait_type": "coolness",
+      "value": "A lot"
+    }
+  ]
+}
